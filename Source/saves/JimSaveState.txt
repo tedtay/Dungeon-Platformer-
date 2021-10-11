@@ -1,0 +1,20 @@
+1
+8 10
+# # # # # # # # # # 
+# _ G _ # # # _ T # 
+# _ _ T # # # _ F # 
+# _ _ _ # # # _ W # 
+# # D # # # # _ W # 
+# _ _ _ # # # _ W # 
+# _ _ _ _ _ _ _ F # 
+# # # # # # # # # # 
+Tele 1 8 2 3
+Tele 2 3 1 8
+TDoor 4 2 1
+Player 5 2
+Inventory Key Red
+Inventory Token
+Boots 5 3 Fire
+Boots 6 3 Water
+Enemy 1 2 WF L
+LevelTime 00:00:10:288

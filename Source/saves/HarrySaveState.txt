@@ -1,0 +1,19 @@
+8 5
+# # # # # 
+# T G T # 
+# _ _ _ # 
+# _ _ _ # 
+# # D # # 
+# _ _ _ # 
+# _ _ _ # 
+# # # # # 
+Tele 1 1 1 3
+Tele 1 3 1 1
+TDoor 4 2 1
+Player 6 2
+Token 5 2
+Key 7 1 Red
+Boots 5 3 Fire
+Boots 6 3 Water
+Enemy 3 1 SL R
+LevelTime 00:00:00:039

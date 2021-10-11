@@ -1,0 +1,15 @@
+13
+9 5
+# # # # # 
+# # G # # 
+# # W # # 
+# # F # # 
+# W _ F # 
+# _ _ _ # 
+# _ _ _ # 
+# _ _ _ # 
+# # # # # 
+Player 5 1
+Inventory WaterBoots
+Boots 5 3 Fire
+LevelTime 00:00:10:690
