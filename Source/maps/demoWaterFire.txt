@@ -1,0 +1,12 @@
+8 5
+# # # # #
+# W G F #
+# W W F #
+# W F F #
+# W _ F #
+# _ _ _ #
+# _ _ _ #
+# # # # # 
+Player 6 2
+Boots 5 1 Water
+Boots 5 3 Fire

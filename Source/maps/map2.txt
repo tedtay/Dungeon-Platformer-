@@ -1,0 +1,19 @@
+2
+8 10
+# # # # # # # # # #
+# _ G _ _ T _ _ _ #
+# _ _ T _ _ _ _ _ #
+# _ _ _ _ _ _ _ _ #
+# _ K _ _ _ K _ _ #
+# _ _ _ _ _ _ _ _ #
+# _ _ _ _ _ _ _ _ #
+# # # # # # # # # #
+Token 5 2
+Player 6 2
+Enemy 3 1 SL R
+Key 6 1 Red
+Tele 2 3 1 5
+KDoor 4 2 Red
+KDoor 4 6 Red
+Boots 5 3 Fire
+Boots 6 3 Water
